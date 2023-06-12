@@ -1,2 +1,2 @@
 #!/bin/bash
-git cat-file -p file1:/etc/passwd; git cat-file file2:/etc/hosts
+cat /etc/passwd/etc/hosts
